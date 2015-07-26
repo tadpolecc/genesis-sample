@@ -1,5 +1,7 @@
 # Details
 
+Tadpole forked this theme from Sridhar Katakam, who started with the Genesis Sample Theme
+
 Blog post: https://sridharkatakam.com/genesis-starter-child-theme
 
 
